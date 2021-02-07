@@ -32,4 +32,4 @@ welcome to my GitHub profile.
 
 ---
 
-🏳️‍⚧️ Trans Rights
+Trans Rights
