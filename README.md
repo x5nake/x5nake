@@ -1,4 +1,4 @@
-### Hey :D,
+### Hey 🌸,
 
 welcome to my GitHub profile.
 
