@@ -28,6 +28,7 @@ welcome to my GitHub profile.
 - Telegram: C5nake
 - Discord: 5nake#4368 (Please join [this server](https://discord.gg/qVwDrFqMwC) first, so I know it's not spam)
 - Email: contact@5nake.me
+- Twitter: @z5nake
 
 ---
 
