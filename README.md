@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hey :D,
 
-<!--
-**x5nake/x5nake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Who am I?
+
+- developer from Austria
+- currently working mostly with Android/Kotlin.
+- looking to contribute some more on GitHub, so if you need contributors hit me up :)
+
+---
+
+### ✨ Skills:
+- Python (mostly numpy, pandas, tensorflow, about 3 years)
+- Unity/C# (About 2 years)
+- C/C++ (About 2 years)
+- Android/Kotlin (About 1 year)
+- NodeJs/JavaScript (About 1.5 years)
+- HTML5/CSS (About 1.5 years)
+
+---
+
+### 📫 Contact me:
+
+- Matrix: @5nake:matrix.5nake.me
+- Telegram: C5nake
+- Discord: 5nake#4368 (Please join [this server](https://discord.gg/qVwDrFqMwC) first, so I know it's not spam)
+- Email: contact@5nake.me
+
+---
+
+🏳️‍⚧️ Trans Rights
