@@ -31,5 +31,3 @@ welcome to my GitHub profile.
 - Twitter: @z5nake
 
 ---
-
-Trans Rights
